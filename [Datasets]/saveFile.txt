@@ -1,0 +1,4 @@
+>Number of Projects=1
+>Project Directories=C:\Users\Kisora Thomas\Desktop\[Desktop]\[Aeternum Compendium]
+>Last File Directory = C:\Users\Kisora Thomas\Desktop\[Desktop]\[Aeternum Compendium]\[Shattria's Egression- Notes]
+>Last File Size = 20587
